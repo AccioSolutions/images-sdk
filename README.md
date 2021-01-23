@@ -66,7 +66,7 @@ const response: UploadResponse = await client.uploadFromPath(file);
 
 ### Interfaces
 
-```js
+```ts
 interface UploadResponse {
   deleteHash: string;
   uuid: string;
