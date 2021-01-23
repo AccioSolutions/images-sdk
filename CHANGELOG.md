@@ -1,4 +1,11 @@
 Changelog
+### [0.0.6](https://github.com/AccioSolutions/images-sdk/compare/v0.0.5...v0.0.6) (2021-01-23)
+
+
+### Bug Fixes
+
+* remove script ([af57d0f](https://github.com/AccioSolutions/images-sdk/commit/af57d0fcbbdb6957d0eb94849609805505813b6e))
+
 ### [0.0.5](https://github.com/AccioSolutions/images-sdk/compare/v0.0.4...v0.0.5) (2021-01-23)
 
 
