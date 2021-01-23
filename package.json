@@ -30,7 +30,6 @@
     "lint:fix": "npm run lint -- --fix",
     "lint": "eslint ./src --ext .ts",
     "prerelease": "npm run build",
-    "publish": "npm publish --access public",
     "release": "git add --force dist/ && standard-version -a"
   },
   "dependencies": {
