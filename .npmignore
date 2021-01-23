@@ -1,0 +1,9 @@
+node_modules
+src
+.github
+.git
+.vscode
+index.js
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*

@@ -1,0 +1,12 @@
+name: Publish
+on:
+  push:
+    branches:
+      - develop
+
+jobs:
+  release_version:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Publish on npm
+        run: echo "Yeah"
