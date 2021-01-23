@@ -14,5 +14,3 @@ yarn-error.log*
 .versionrc
 nodemon.json
 tsconfig.json
-CHANGELOG.md
-README.md
