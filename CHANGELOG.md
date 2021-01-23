@@ -1,4 +1,11 @@
 Changelog
+### [0.0.7](https://github.com/AccioSolutions/images-sdk/compare/v0.0.6...v0.0.7) (2021-01-23)
+
+
+### Bug Fixes
+
+* remove unnecessary files from npm ([69d6efb](https://github.com/AccioSolutions/images-sdk/commit/69d6efbaef9196eda07a9247d9331de50046b8f1))
+
 ### [0.0.6](https://github.com/AccioSolutions/images-sdk/compare/v0.0.5...v0.0.6) (2021-01-23)
 
 
